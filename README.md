@@ -43,3 +43,9 @@ The AI-Based Trip Planner is a comprehensive web application that leverages mode
 4. Run the project locally with `npm start`.
 
 This project is perfect for showcasing skills in React development, API integration, and AI-based solutions. Contributions are welcome!
+
+
+![Image](https://github.com/user-attachments/assets/0c88dce6-d10a-4d99-b3de-9d6acd557405)
+![Image](https://github.com/user-attachments/assets/2205cd2d-d530-4d5a-bdfc-ae6758193e9c)
+![Image](https://github.com/user-attachments/assets/8cce1ca6-c769-4c6a-83b2-b03fee3e2ced)
+![Image](https://github.com/user-attachments/assets/49409059-e403-4950-9390-3bac068e7994)
